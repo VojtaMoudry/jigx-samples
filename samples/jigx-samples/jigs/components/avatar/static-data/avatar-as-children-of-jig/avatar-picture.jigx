@@ -7,7 +7,7 @@ children:
       text:  ""
       uri: =@ctx.datasources.static-global.picture
       size: large
-      align: left
+      align: center
       
 widgets:    
   2x2:
